@@ -1,0 +1,11 @@
+services:
+  postgres-orders-db:
+    image: postgres:latest
+    container_name: lab-2-tools-postgres-orders
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: orders
+    ports:
+      - "5433:5432"
+    restart: unless-stopped

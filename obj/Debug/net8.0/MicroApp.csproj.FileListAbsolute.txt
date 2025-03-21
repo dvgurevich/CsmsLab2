@@ -1,0 +1,5 @@
+C:\Users\Алина\DanyaWork\MicroApp\microapp\obj\Debug\net8.0\MicroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\DanyaWork\MicroApp\microapp\obj\Debug\net8.0\MicroApp.AssemblyInfoInputs.cache
+C:\Users\Алина\DanyaWork\MicroApp\microapp\obj\Debug\net8.0\MicroApp.AssemblyInfo.cs
+C:\Users\Алина\DanyaWork\MicroApp\microapp\obj\Debug\net8.0\MicroApp.csproj.CoreCompileInputs.cache
+C:\Users\Алина\DanyaWork\MicroApp\microapp\obj\Debug\net8.0\MicroApp.MvcApplicationPartsAssemblyInfo.cache

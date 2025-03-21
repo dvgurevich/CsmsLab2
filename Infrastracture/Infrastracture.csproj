@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+      <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="dapper" Version="2.1.66" />
+    <PackageReference Include="FluentMigrator" Version="6.2.0" />
+    <PackageReference Include="Npgsql" Version="9.0.3" />
+    <ProjectReference Include="..\Application\Application.csproj" />
+  </ItemGroup>
+</Project>

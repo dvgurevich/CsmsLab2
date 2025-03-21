@@ -1,0 +1,12 @@
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Алина\DanyaWork\MicroApp\microapp\Application\obj\Debug\net8.0\ref\Application.dll
